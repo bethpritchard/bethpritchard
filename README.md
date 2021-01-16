@@ -25,6 +25,7 @@ class BethPritchard():
 me = BethPritchard()
 me.say_hi()
 
+'''
 
 <!--
 **bethpritchard/bethpritchard** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
