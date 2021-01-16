@@ -1,7 +1,33 @@
-### Hi there 👋
+### ✨ Hey! ✨
+
+
+```python
+
+class BethPritchard():
+  def __init__(self):
+      self.age = 23
+      self.university = "Newcastle University"
+      self.degree = "Mathematics"
+      self.pronouns = ["They/them", "she/her"]
+      self.languages = ["Python", "Matlab", "R"]
+      self.career_aim = "Software developer"
+      self.interests = ["Technology", "video games", "horror films", "craft beer"] 
+      self.current_project = "100 Days of Code"
+      
+    def say_hi(self):
+        print(f"""Hey there!
+        I'm a final year {self.degree} student at {self.university}
+        I am on the road to becoming a {self.career_aim}.
+        Some of my interests include {self.interests} and my
+        current project is {self.current_project}""")
+
+
+me = BethPritchard()
+me.say_hi()
+
 
 <!--
-**bethpritchard/bethpritchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bethpritchard/bethpritchard** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
