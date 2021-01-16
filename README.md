@@ -27,6 +27,8 @@ me.say_hi()
 
 ```
 
+Keep up with my 100 Days of Code [journey](https://github.com/bethpritchard/100-days-of-code/blob/bethbranch/log.md)!
+
 <!--
 **bethpritchard/bethpritchard** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
