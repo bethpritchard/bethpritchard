@@ -5,7 +5,6 @@
 
 class BethPritchard():
   def __init__(self):
-      self.age = 23
       self.university = "Newcastle University"
       self.degree = "Mathematics"
       self.pronouns = ["They/them", "she/her"]
